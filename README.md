@@ -14,6 +14,9 @@ Python 3 is required in order to run this program
 brew install python3
 ```
 
+## Usage
+
+Just launch the script and follow what the prompt says !
 
 ## License
 
