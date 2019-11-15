@@ -15,7 +15,7 @@ def get_present_value():
         get_present_value()
 
 def get_the_rate():
-    r = input("enter the annual interest\n")
+    r = input("enter the annual interest rate\n")
 
     try:
         r = float(r)
