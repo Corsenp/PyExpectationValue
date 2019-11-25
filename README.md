@@ -1,6 +1,6 @@
 # PyExpectationValue
 
-PyExpectationValue is a school project using two python script.
+PyExpectationValue (Assignment 8) is a school project using two python script.
 
 pyfuturevalue.py will calculate the future value of some money, given interest rate and time whereas pypresentvalue.py will calculate the present value of some money, given interest rate and time.
 
